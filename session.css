@@ -1,0 +1,39 @@
+*{
+    font-family: 'Fondamento', cursive;
+ 
+}
+
+/* section h1{
+    font-size: ;
+    letter-spacing: 1px;
+    text-align: center;
+    border-bottom: 1px solid #cccccc;
+    width: 60%;
+    margin: auto auto;
+}
+
+.instruct{
+    width: 100%;
+    height: 600px;
+    border-radius: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+.icon{
+    border: 1px solid #cccccc;
+    margin-top: 15px;
+    border-radius: 5px;
+    height: 300px;
+    width: 300px;
+}
+.instruct .icon img{
+    width: 300px;
+    height: 200px;
+}
+
+.instruct .icon p{
+    text-align: center;
+    margin-top: 10px;
+} */
